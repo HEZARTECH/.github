@@ -4,7 +4,6 @@
 
 # HEZARTECH ORGANIZATION
 
-
 # Contents
 
 - Who are we?
