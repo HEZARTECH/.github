@@ -1,5 +1,5 @@
-<div align="center">
-<img title="HEZARTECH" alt="Alt text" src="https://github.com/HEZARTECH/.github/tree/main/profile/assets/HEZARTECH_LOGO.png?raw=true">
+<div style="margin:auto;" align="center">
+![HEZARTECH_LOGO](assets/HEZARTECH_LOGO.png)
 </div>
 
 # HEZARTECH
