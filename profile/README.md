@@ -1,5 +1,5 @@
 <div align="center">
-![HEZARTECH_LOGO][https://github.com/HEZARTECH/.github/tree/main/profile/assets/HEZARTECH_LOGO.png]
+![HEZARTECH_LOGO](https://github.com/HEZARTECH/.github/tree/main/profile/assets/HEZARTECH_LOGO.png)
 </div>
 
 # HEZARTECH
