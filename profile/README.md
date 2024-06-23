@@ -2,7 +2,7 @@
 <img src="https://github.com/HEZARTECH/.github/blob/main/profile/assets/HEZARTECH_LOGO.png?raw=true" />
 </div>
 
-# HEZARTECH
+# HEZARTECH ORGANIZATION
 
 
 # Contents
