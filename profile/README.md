@@ -35,7 +35,7 @@ You can reach us at [hezartech@gmail.com](mailto:hezartech@gmail.com).📩
 
 ## License
 
-Our projects are licensed under the [Apache 2.0](https://opensource.org/licenses/apache-2.0) and [MIT License](https://opensource.org/licenses/MIT). 🖹
+Our projects are licensed under the [Apache 2.0](https://opensource.org/licenses/apache-2.0) and [MIT License](https://opensource.org/licenses/MIT). 📄
 
 
 
